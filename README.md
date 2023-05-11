@@ -8,7 +8,7 @@ para o Bootcamp Santander da DIO.
 
 ## Screenshots
 
-<img src="/screeshots/screeshot/Screenshot_tela1.png" width=25%>  <img src="/screeshots/screeshot/Screenshot_pesquisaOK.png" width=25%>
+<img src="/screenshot/Screenshot_tela1.png" width=25%>  <img src="/screenshot/Screenshot_pesquisaOK.png" width=25%>
 
 ## Tecnologias utilizadas
 
