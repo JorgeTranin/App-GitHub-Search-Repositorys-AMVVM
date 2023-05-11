@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">App-GitHub-Search-Repositorys-AMVVM</string>
     <string name="nome_do_repositorio">Nome do repositorio</string>
+    <string name="action_search">action searsh</string>
+    <string name="searsh_icon">Searsh icon</string>
+    <string name="searsh">Searsh</string>
 </resources>
